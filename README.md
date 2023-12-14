@@ -1,2 +1,2 @@
 # random-password-generator
-Program for random passwords generation based on criteria defined by the user
+Program written in Python for random passwords generation based on criteria defined by the user
